@@ -35,32 +35,34 @@ At a high level, the test execution flow is:
 ---
 
 ## 2. Project Structure & Responsibilities
+
 ```text
 gold-buy-e2e/
-│
-├── README.md
-├── requirements.txt
-├── playwright.config.py
-├── .env.example
+├── README.md                      # Project overview and instructions
+├── Task1_Buy_Gold_Feature_Analysis.md
+├── requirements.txt               # Python dependencies
+├── pw_config.py                   # Central Playwright runtime configuration
+├── .env.example                   # Environment variable template
 ├── .gitignore
 │
-├── pages/
-│ ├── base_page.py
-│ ├── login_page.py
-│ ├── buy_gold_page.py
-│ └── order_success_page.py
+├── pages/                         # Page Object Model (UI abstraction)
+│   ├── base_page.py               # Common page utilities
+│   ├── login_page.py              # Login flow actions
+│   ├── buy_gold_page.py           # Buy Gold screen actions
+│   └── order_success_page.py      # Success/receipt validations
 │
-├── tests/
-│ ├── conftest.py
-│ ├── test_buy_gold_happy_amount.py
-│ ├── test_buy_gold_happy_grams.py
-│ └── test_buy_gold_negative_insufficient_funds.py
+├── tests/                         # Test scenarios
+│   ├── conftest.py                # Fixtures + reporting hooks
+│   ├── test_buy_gold_happy_amount.py
+│   ├── test_buy_gold_happy_grams.py
+│   └── test_buy_gold_negative_insufficient_funds.py
 │
-├── utils/
-│ ├── test_data.py
-│ └── selectors.py
+├── utils/                         # Shared helpers and constants
+│   ├── test_data.py
+│   └── selectors.py
 │
-└── reports/ # Generated automatically (not committed)
+└── reports/                       # Generated automatically (not committed)
+
 ```
 
 ---
