@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.12%2B-blue?logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-Automation-45ba4b?logo=playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-Test_Framework-0A9EDC?logo=pytest&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
 # Gold Buy Flow – QA Automation Sample  
 ## **Python · Playwright · Pytest**
 
