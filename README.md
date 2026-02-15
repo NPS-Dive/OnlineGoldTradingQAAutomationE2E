@@ -35,7 +35,7 @@ At a high level, the test execution flow is:
 ---
 
 ## 2. Project Structure & Responsibilities
-
+```text
 gold-buy-e2e/
 │
 ├── README.md
@@ -61,7 +61,7 @@ gold-buy-e2e/
 │ └── selectors.py
 │
 └── reports/ # Generated automatically (not committed)
-
+```
 
 ---
 
