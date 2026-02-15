@@ -3,6 +3,11 @@
 
 ### **By**: *Amir Mohammad Shahsavarni*
 
+## Contents
+- Part 1: Feature analysis & risk assessment (Buy_Gold_Feature_Analysis.md)
+- Part 2: UI automation (Playwright + Pytest)
+
+
 This repository contains a sample for an end-to-end (E2E) automated test suite for the **Buy Gold Flow** of an online gold trading platform that operates **24/7 with platform-defined prices**.
 
 The project is designed to demonstrate:
