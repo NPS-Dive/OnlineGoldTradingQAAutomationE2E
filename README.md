@@ -1,7 +1,10 @@
-![Python](https://img.shields.io/badge/Python-3.12%2B-blue?logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-Automation-45ba4b?logo=playwright&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-Test_Framework-0A9EDC?logo=pytest&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.12%2B-blue?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-Automation-45ba4b?logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-Test_Framework-0A9EDC?logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
+</p>
+
 
 
 # Gold Buy Flow – QA Automation Sample  
@@ -313,6 +316,8 @@ Reporting output is excluded from version control by design.
 
 This project is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for details.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 ---
 
