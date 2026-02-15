@@ -302,6 +302,12 @@ pytest tests/test_buy_gold_happy_amount.py
 All selectors use data-testid placeholders and should be mapped to real attributes in the product.
 Reporting output is excluded from version control by design.
 
+
+## License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
 ---
 
 **Author**: Amir Mohammad Shahsavraani
