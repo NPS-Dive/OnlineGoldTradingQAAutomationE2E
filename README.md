@@ -4,7 +4,7 @@
 ### **By**: *Amir Mohammad Shahsavarni*
 
 ## Contents
-- Part 1: Feature analysis & risk assessment (Buy_Gold_Feature_Analysis.md)
+- Part 1: Feature analysis & risk assessment (`Buy_Gold_Feature_Analysis.md`)
 - Part 2: UI automation (Playwright + Pytest)
 
 
